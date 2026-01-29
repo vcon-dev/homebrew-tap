@@ -3,8 +3,8 @@ class Conserver < Formula
 
   desc "CLI tool to manage vcon-server Docker containers"
   homepage "https://github.com/vcon-dev/vcon-server-cli"
-  url "https://files.pythonhosted.org/packages/source/c/conserver-cli/conserver_cli-0.1.0.tar.gz"
-  sha256 "80ac36adb60fc9f3b977fa28db9a55513c8a2e4d26b1f8b6f5aba115bf4cd9cf"
+  url "https://files.pythonhosted.org/packages/source/c/conserver-cli/conserver_cli-0.2.0.tar.gz"
+  sha256 "4248effe8f5a61a381dfee6e2769b758f480c8f0e4e02900cc7a5d18271c89cb"
   license "MIT"
 
   depends_on "python@3.12"
