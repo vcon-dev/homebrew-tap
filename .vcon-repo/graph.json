@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "repo": "homebrew-tap",
+  "repo_version": null,
+  "archetype": "homebrew",
+  "generated_at": "2026-04-16T15:15:44.484861+00:00",
+  "stats": {
+    "node_count": 2,
+    "edge_count": 0
+  },
+  "nodes": [
+    {
+      "id": "artifact:Conserver",
+      "type": "artifact",
+      "name": "Conserver",
+      "description": "CLI tool to manage vcon-server Docker containers",
+      "file": "Formula/conserver.rb"
+    },
+    {
+      "id": "document:readme",
+      "type": "document",
+      "name": "README",
+      "file": "README.md"
+    }
+  ],
+  "edges": [],
+  "subsystems": []
+}
